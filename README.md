@@ -21,10 +21,10 @@ Veritasium Explanation of the solution - https://www.youtube.com/watch?v=iSNsgj1
 
 ## Results
 
-Out of 10 iterations, The prisoner won 3 times and lost 7 times
-Out of 100 iterations, The prisoner won 30 times and lost 70 times
-Out of 1000 iterations, The prisoner won 297 times and lost 703 times
-Out of 10000 iterations, The prisoner won 3111 times and lost 6889 times
-Out of 100000 iterations, The prisoner won 31145 times and lost 68855 times
+Out of 10 iterations, The prisoner won 3 times and lost 7 times  
+Out of 100 iterations, The prisoner won 30 times and lost 70 times  
+Out of 1000 iterations, The prisoner won 297 times and lost 703 times  
+Out of 10000 iterations, The prisoner won 3111 times and lost 6889 times  
+Out of 100000 iterations, The prisoner won 31145 times and lost 68855 times  
 
-The results are very close to the mathematical solution of 31.1%
+The results are very close to the mathematical solution of 31.1%  
