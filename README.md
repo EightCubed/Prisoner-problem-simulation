@@ -28,3 +28,8 @@ Out of 10000 iterations, The prisoner won 3111 times and lost 6889 times
 Out of 100000 iterations, The prisoner won 31145 times and lost 68855 times  
 
 The results are very close to the mathematical solution of 31.1%  
+
+## To do
+1. Learn what data needs to be collected
+2. General statistics refresh
+3. Look at options for visualization
